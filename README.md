@@ -77,10 +77,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
 ## Output:
+## HEAD OF THE DATA:
 ![github logo](head1.png)
+## PREDICTED VALUES:
 ![github logo](array2.png)
+## ACCURACY:
 ![github logo](float3.png)
+## CONFUSION MATRIX:
 ![github logo](matrix4.png)
+## CLASSIFICATION REPORT:
 ![github logo](last.png)
 
 
